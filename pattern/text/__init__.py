@@ -1851,7 +1851,9 @@ class Verbs(lazydict):
         a = sorted(x[:-2] for x in a if x[-2] is False) # Exclude negation.
         return a
 
-    def lemma(self, verb, parse=True):
+    def lemma(self, verb, parse=True, returnAll=False):
+        # Notably this will fall apart for se, or for any conjugation that maps to more than one
+        # infinitive
         """ Returns the infinitive form of the given verb, or None.
         """
         if dict.__len__(self) == 0:
