@@ -79845,4 +79845,6 @@ zúgása VMI
 ýr AQ
 Em UH
 em UH
-volveré VB
+;;; Added by me ;;;
+llegué VMI
+volveré VMI
