@@ -52247,6 +52247,7 @@ habrá VMI
 habrán VAI
 habré VAI
 habría VAI
+habrías VAI
 habríamos VAI
 habrían VAI
 habí VMI
@@ -53261,6 +53262,7 @@ huayno AQ
 huaynos RG
 hub NCS
 hubiera VAS
+hubieras VAS
 hubieran VAS
 hubiere VMS
 hubieron VAI
@@ -75476,6 +75478,7 @@ temido VMP
 temidos VMP
 temiendo VMG
 temieron VMI
+temo VMI
 temor NCS
 temores NCP
 temperado VMP
@@ -78564,6 +78567,7 @@ vientre NCS
 vientres NCP
 vienés AQ
 viera VMS
+vieras VMS
 vieran VMS
 vierge VMI
 viernes W
@@ -79847,4 +79851,3 @@ Em UH
 em UH
 ;;; Added by me ;;;
 llegué VMI
-volveré VMI

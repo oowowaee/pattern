@@ -1913,6 +1913,7 @@ class Verbs(lazydict):
         a = set()
         b = self.lemma(verb, parse=parse)
         v = []
+
         if b in self:
             v = self[b]
         elif parse is True: # rule-based
@@ -1922,6 +1923,7 @@ class Verbs(lazydict):
         # 2) retrieve the tense tuples for which that tense is a default.
         for i, tense in enumerate(v):
             if tense == verb:
+                # Basically, if the verb is in the tuple of conjugations
                 for id, index in self._format.items():
                     if i == index:
                         a.add(id)
@@ -1931,6 +1933,7 @@ class Verbs(lazydict):
                 for id1, id2 in self._default.items():
                     if id2 in a:
                         a.add(id1)
+
         a = (TENSES[id][:-2] for id in a)
         a = Tenses(sorted(a))
         return a

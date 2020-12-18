@@ -42,6 +42,9 @@ NCS zó fhassuf 2 VMI x
 NCS rra fhassuf 3 NCS x
 NCS ró fhassuf 2 VMI x
 NCS mpo fhassuf 3 NCS x
+NCS rías fhassuf 4 VMI x
+NCS rás fhassuf 3 VMI x
+NCS ras fhassuf 3 VMI x
 NCS ­as fhassuf 2 NCP x
 NCS ula fhassuf 3 NCS x
 NCS zar fhassuf 3 VMN x
@@ -113,7 +116,6 @@ NCS ivo fhassuf 3 AQ x
 NCS osa fhassuf 3 AQ x
 NCS oso fhassuf 3 AQ x
 NV ía fhassuf 2 VMI x
-NCS as fhassuf 2 NCP x
 NCS os fhassuf 2 NCP x
 NCS es fhassuf 2 NCP x
 NCS al fhassuf 2 AQ x
@@ -124,6 +126,5 @@ NV ó fhassuf 1 VMI x
 NCS ré fhassuf 2 VMI x
 NCS rá fhassuf 2 VMI x
 NCS ría fhassuf 3 VMI x
-NCS rías fhassuf 4 VMI x
 NCS ríamos fhassuf 5 VMI x
 NCS rían fhassuf 4 VMI x

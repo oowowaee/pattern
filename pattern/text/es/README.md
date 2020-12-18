@@ -2,7 +2,14 @@ https://cl.lingfil.uu.se/~evafo/RuleCompiler/Docs/RuleCompiler.html
 
 How this all works:
 
-First it will try to tag sentences. (not 100% about order).
+[find_tags IN /Users/tallyosborne/personal/pattern/pattern/text/__init__.py]
+First it will try to tag sentences using the lexicon.
+  This will find an EXACT word and replace its tag.
+  Ie: 
+  llegué VMI
+
+  Will convert llegué to a verb.
+
 Then it runs through the morphology file.
   This will try to update tags based on features of the word.
   Ie:
@@ -15,12 +22,16 @@ Then it runs through the morphology file.
 
   These rules specify, if a word was tagged NCS (shows as NN in tagged output, it must get converted in the parole conversion), and ends in ré (ré fhassuf 2), then convert it to VMI.
 
-Then it runs through the lexicon (not 100% about order).
-  This will find an EXACT word and replace its tag.
-  Ie: 
-  llegué VMI
+  The order MATTERS.  It will take the FIRST rule that matches.
+  ie
+  NCS ­as fhassuf 2 NCP x
+  NCS rías fhassuf 4 VMI x
 
-  Will convert llegué to a verb.
+  is useless - any word ending in rías will instead be tagged NCP.  The more specific rule needs to come first.
+
+
+Then it runs through the context tagger.
+
 
 Then it runs through the context file.
   This will update the tag of the word based on surrounding words.

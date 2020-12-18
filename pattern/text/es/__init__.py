@@ -10,6 +10,7 @@
 
 import os
 import sys
+import pdb
 
 try:
     MODULE = os.path.dirname(os.path.realpath(__file__))
