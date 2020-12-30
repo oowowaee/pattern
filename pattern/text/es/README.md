@@ -5,7 +5,7 @@ How this all works:
 [find_tags IN /Users/tallyosborne/personal/pattern/pattern/text/__init__.py]
 First it will try to tag sentences using the lexicon.
   This will find an EXACT word and replace its tag.
-  Ie: 
+  Ie:
   llegué VMI
 
   Will convert llegué to a verb.
@@ -48,3 +48,5 @@ Then it runs through the context file.
 
   Convert an NCS to a VB if the previos word was a reflexiv pronoun or direct object pronoun.
   Ie me enctana.
+
+  It seems like in the context file, it will apply the last rule.

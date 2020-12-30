@@ -5,9 +5,20 @@
 ;;;   Used with permission.
 ;;;   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ;;;   remar,  remo,remas,rema,remamos,,reman,  remando,  ,,,,,,  remado  ,,,,,,  ,,,,,,, ,,,,,, rema,remad,  reme,remes,reme,rememos,,remen,  ,,,,,
-;;;   estar,  estoy,estás,está,estamos,estáis,están,   estando,    estuve,estuviste,estuvo,estuvimos,estuvisteis,estuvieron,   estado,   estaba,
-;;;   estabas,estaba,estábamos,estabais,estaban   ,estaré,estarás,estará,estaremos,estaréis,estarán,   estaría,estarías,estaría,estaríamos,estaríais,
-;;;   estarían,   está,estad,   esté,estés,esté,estemos,estéis,estén,   estuviera,estuvieras,estuviera,estuviéramos,estuvierais,estuvieran
+;;;   estar,  estoy,estás,está,estamos,estáis,están,   estando,
+;;;   estuve,estuviste,estuvo,estuvimos,estuvisteis,estuvieron,   estado,
+;;;   estaba,estabas,estaba,estábamos,estabais,estaban   ,
+;;;   estaré,estarás,estará,estaremos,estaréis,estarán,
+;;;   estaría,estarías,estaría,estaríamos,estaríais,estarían,   está,estad,
+;;;   esté,estés,esté,estemos,estéis,estén,
+;;;   estuviera,estuvieras,estuviera,estuviéramos,estuvierais,estuvieran
+
+;;;   haber,he,has,ha,hemos,,han
+;;;   ,habiendo,,,hubo,,,,habido,
+;;;   había,habías,habíamos,,habían,
+;;;   habré,habrás,habrá,habremos,,habrán,habría,,,,,,,,
+;;;   haya,hayas,haya,hayamos,,hayan,
+;;;   hubiera,hubieras,hubiera,hubiéramos,,hubieran
 
 abandonar,abandono,abandonas,abandona,abandonamos,abandonáis,abandonan,abandonando,abandoné,abandonaste,abandonó,abandonamos,abandonasteis,abandonaron,abandonado,abandonaba,abandonabas,abandonaba,abandonábamos,abandonabais,abandonaban,abandonaré,abandonarás,abandonará,abandonaremos,abandonaréis,abandonarán,abandonaría,abandonarías,abandonaría,abandonaríamos,abandonaríais,abandonarían,abandona,abandonad,abandone,abandones,abandone,abandonemos,abandonéis,abandonen,abandonara,abandonaras,abandonara,abandonáramos,abandonarais,abandonaran
 abordar,abordo,abordas,aborda,abordamos,abordáis,abordan,abordando,abordé,abordaste,abordó,abordamos,abordasteis,abordaron,abordado,abordaba,abordabas,abordaba,abordábamos,abordabais,abordaban,abordaré,abordarás,abordará,abordaremos,abordaréis,abordarán,abordaría,abordarías,abordaría,abordaríamos,abordaríais,abordarían,aborda,abordad,aborde,abordes,aborde,abordemos,abordéis,aborden,abordara,abordaras,abordara,abordáramos,abordarais,abordaran

@@ -52238,6 +52238,7 @@ hablaron VMI
 hablaría VMI
 hablas NCP
 hablemos VMS
+hables VMS
 hablen VMS
 hablo VMI
 hablé VMI
@@ -75564,6 +75565,7 @@ tenerse VMN
 tenerum NCS
 tenes NCP
 tenga VMS
+tengas VMS
 tengamos VMS
 tengan VMS
 tengo VMI
@@ -78026,6 +78028,7 @@ vaticinio NCS
 vaticinios NCP
 vaudeville NCS
 vaya VMS
+vayas VMS
 vayan VMS
 vaída VMP
 ve VMI
