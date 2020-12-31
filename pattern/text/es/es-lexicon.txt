@@ -35298,6 +35298,7 @@ cambiarán VMI
 cambiaría VMI
 cambiarían VMI
 cambie VMS
+cambies VMS
 cambio NCS
 cambios NCP
 cambiábamos VMI
@@ -40409,6 +40410,7 @@ credido VMP
 credo NCS
 credulidad NCS
 cree VMI
+crees VMI
 creemos VMI
 creen VMI
 creencia NCS
@@ -40827,6 +40829,7 @@ cuentacuentos NC
 cuentan VMI
 cuentas NCP
 cuente VMS
+cuentes VMS
 cuentista AQ
 cuentistas NCP
 cuento NCS
@@ -41878,7 +41881,7 @@ dejarían VMI
 dejase VMS
 deje VMS
 dejen VMS
-dejes NCP
+dejes VMS
 dejo VMI
 dejándo VMG
 dejé VMI
@@ -47285,7 +47288,8 @@ escorar VMN
 escorias NCP
 escorpiones NCP
 escorrentías NCP
-escriba NCS
+escriba VMS
+escribas VMS
 escribano NCS
 escribanos NCP
 escribas NCP
@@ -48171,6 +48175,7 @@ estuviese VAS
 estuviesen VAS
 estuvimos VAI
 estuviste VAI
+estuve VAI
 estuvo VAI
 està RG
 está VAI
@@ -52238,6 +52243,7 @@ hablaron VMI
 hablaría VMI
 hablas NCP
 hablemos VMS
+hable VMS
 hables VMS
 hablen VMS
 hablo VMI
@@ -52422,13 +52428,12 @@ hayamos VAS
 hayan VAS
 hayas NCP
 hayib NCS
-haz NCS
+haz VMI
 haza NCS
 hazaña NCS
 hazañas NCP
 hbb NCS
 he VAI
-he'll AQ
 head NCS
 heap NCS
 hear AQ
@@ -63954,6 +63959,7 @@ pasatiempos NCP
 pascua NCS
 pascual AQ
 pase NCS
+pasé VMI
 paseante NCS
 paseantes NCP
 pasear VMN
@@ -76180,6 +76186,7 @@ tomase VMS
 tomate NCS
 tomates NCP
 tome VMS
+tomes VMS
 tomen VMS
 tomillo NCS
 tomillos NCP
@@ -76244,8 +76251,8 @@ topó VMI
 topógrafo NCS
 topónimo NCS
 topónimos NCP
-toque NCS
-toques NCP
+toque VMS
+toques VMS
 tora NCS
 toraero AQ
 torbellina NCS

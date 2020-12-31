@@ -123,8 +123,10 @@ NCS a fhassuf 1 NCS x
 NCS o fhassuf 1 NCS x
 NCS e fhassuf 1 NCS x
 NV ó fhassuf 1 VMI x
-NCS ré fhassuf 2 VMI x
+NCS é fhassuf 2 VMI x
 NCS rá fhassuf 2 VMI x
 NCS ría fhassuf 3 VMI x
 NCS ríamos fhassuf 5 VMI x
 NCS rían fhassuf 4 VMI x
+NCS gué fhassuf 3 VMI x
+NCS eí fhassuf 2 VMI x
