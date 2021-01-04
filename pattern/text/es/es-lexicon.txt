@@ -39001,6 +39001,7 @@ conocíaa RG
 conocían VMI
 conos NCP
 conozca VMS
+conozcas VMS
 conozcan VMS
 conozco VMI
 conquense AQ
@@ -47886,6 +47887,7 @@ estar VAN
 estara VMS
 estaremos VAI
 estará VAI
+estarás VAI
 estarán VAI
 estaréa RG
 estaría VAI
@@ -61416,6 +61418,7 @@ necesitaría VMI
 necesitarían VMI
 necesitas VMI
 necesite VMS
+necesites VMS
 necesiten VMS
 necesito VMI
 necessaria AQ
@@ -71870,6 +71873,7 @@ salesiana AQ
 salesiano AQ
 salesianos NCP
 salga VMS
+salgas VMS
 salgan VMI
 salgueira NCS
 salia AQ
@@ -72695,6 +72699,7 @@ senum NCS
 senyera VMS
 senza VMI
 sepa VMS
+sepas VMS
 sepadada AQ
 sepan VMS
 separa VMI
@@ -75701,6 +75706,7 @@ terminará VMI
 terminaría VMI
 terminarían VMI
 termine VMS
+termines VMS
 terminen VMS
 termino VMI
 terminología NCS
@@ -78208,6 +78214,7 @@ venezolanas AQ
 venezolano AQ
 venezolanos NCP
 venga VMS
+vengas VMS
 vengado VMP
 vengador NCS
 vengadores AQ
