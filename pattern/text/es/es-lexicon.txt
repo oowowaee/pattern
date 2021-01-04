@@ -62591,6 +62591,7 @@ ogdoádica AQ
 oh I
 ohmios NCP
 ohtéh I
+oí VMI
 oia NCS
 oido VMP
 oidor AQ
@@ -71746,6 +71747,7 @@ sabueso NCS
 sabático AQ
 sabéis VMI
 sabía VMI
+sabías VMI
 sabían VMI
 saca VMI
 sacaba VMI
@@ -75616,6 +75618,7 @@ tenue AQ
 tenues AQ
 tenuissimum NCS
 tenía VMI
+tenías VMI
 teníamos VMI
 tenían VMI
 teoforico AQ

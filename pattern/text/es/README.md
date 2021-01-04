@@ -1,5 +1,11 @@
 https://cl.lingfil.uu.se/~evafo/RuleCompiler/Docs/RuleCompiler.html
 
+
+PENN tags:
+  https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+
+http://wse1.webcorp.org.uk/guide/tagsets.html
+
 How this all works:
 
 [find_tags IN /Users/tallyosborne/personal/pattern/pattern/text/__init__.py]
